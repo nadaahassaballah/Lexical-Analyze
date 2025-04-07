@@ -1,0 +1,3 @@
+D:/Users/Mass/CLionProjects/lexeme analyzer/cmake-build-debug/CMakeFiles/lexeme_analyzer.dir
+D:/Users/Mass/CLionProjects/lexeme analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Mass/CLionProjects/lexeme analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
